@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+            <head>
+                <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <title>My personal portfolio</title>
+            </head>
+<body>
+    
+            <header>
+                <h1>Welcome to My Portfolio</h1>
+                <p>Hello all customers welcom in my portfolio</p>
+            </header>
+
+<nav>
+  <ol>
+    <li><a href="#home">Home</a></li>
+    <li><a href="#about">About</a></li>
+    <li><a href="#projects">Projects</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</nav>
+ 
+<section>
+    <h2>About me</h2>
+    <span> This is Nour El-Din Ashraf , I'm student at FCDS ,Depatment Cybersecurity</span>
+    <img src="nour.png.jpg" width="50">
+
+</section>
+
+        <section id="projects">
+            <h2>Projects</h2>
+
+
+<article>
+
+<h3>project 1 </h3>
+<p>A simple website built using HTML for learning purposes</p>
+<a href="https://github.com/yourusername/project2">View Project-1</a>
+</article>
+
+<article>
+
+<h3>project 2 </h3>
+ <p>A simple website built using CSS for learning purposes</p>
+<a href="https://github.com/yourusername/project2">View Project-2</a>
+</article>
+
+<div>
+
+<h3>project 3 </h3>
+<p>A simple website built using Java for learning purposes</p>
+<a href="https://github.com/yourusername/project3">View Project-3</a>
+</div>
+
+<section>
+    <h2>My Skills</h2>
+
+<table border="5">
+    <tr>
+        <th>Skills</th>
+        <th>Level</th>
+</tr>
+
+<tr>
+        <td>Html</td>
+        <td>Beginner</td>
+    </tr>
+    <tr>
+        <td>CSS</td>
+        <td>Intermediate</td>
+    </tr>
+
+     <tr>
+        <td>Java</td>
+        <td>Advanced</td>
+    </tr>
+</table>
+
+<section>
+    <h2>Contact</h2>
+    <form action="">
+
+
+
+
+        
+    </form>
+
+https://www.linkedin.com/in/nour-el-din-ashraf-elsabrouty-72b268341?
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Personal Portfolio</title>
+</head>
+<header>
+        <h1> My Portfolio</h1>
+        <p>Hello all customers welcom in my portfolio</p>
+</header>
+
+<nav>
+<ul>
+    <li><a href="home">Home</a></li>
+    <li><a href="about">About</a></li>
+    <li><a href="projects">Projects</a></li>
+    <li><a href="contact">Contact</a></li>
+    
+</ul>
+</nav>
+            <section>
+            <p>This is nour eldin ashraf saleh cybersecurity student at FCDS</p>
+            <img src="nour.png.jpg" alt="My RAndom pic" width="150">
+            </section>
+
+
+            <div>
+                    <h3>Project One</h3>
+                    <p>The first project is an about flight management system </p>
+                    <a target="_blank" href="https://www.linkedin.com/in/nour-el-din-ashraf-elsabrouty-72b268">
+                    </a>
+           </div>
+
+           <div>
+
+                     <h3>Project Two</h3>
+                    <p>The second project is an about University management system </p>
+                    <a target="_blank" href="https://www.linkedin.com/in/nour-el-din-ashraf-elsabrouty-72b268341
+                    ">
+
+           </div>
+           
+           <div>
+                    <h3>Project Three</h3>
+                    <p>The third project is an about booking management system </p>
+                    <a target="_blank" href="https://www.linkedin.com/in/nour-el-din-ashraf-elsabrouty-72b268341
+                    ">
+
+           </div>
+
+<section>My Skills </section>
+           <table border="1">
+<tr>
+    <td>Skills</td>
+    <td>Level</td>
+</tr>
+
+<tr>
+    <td>Playing football</td>
+    <td>advanced</td>
+</tr>
+
+<tr>
+    <td>HTMl</td>
+    <td>Beginner</td>
+</tr>
+<tr>
+    <td>Java</td>
+    <td>Intermediate</td>
+</tr>
+           </table>
+<br>
+           <form >
+<div>
+            <label for="txt">Full name</label>
+        <input id="txt" type="text" required>   
+        </div>
+        <br>
+        <div>
+<label for="em">Email</label>
+<input id="em" type="email">
+
+        </div>
+        <br>
+        <div>
+<label for="mes">Message</label>
+<input id="mes" type="text">
+        </div>
+<input type="button" value="Submit">
+    </form>
+
+<body>
+    
+</body>
+</html>
